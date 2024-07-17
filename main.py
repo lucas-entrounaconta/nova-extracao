@@ -14,10 +14,7 @@ login = "1968.rayane"
 password = "rAYANE@0085590548"
 initial_date = "30/06/2024"
 final_date = "15/07/2024"
-url_2tech = "https://app1.gerencialcredito.com.br/EntrounaConta/default.asp"
-login_2tech = "LucasMonte"
-password_2tech = "Wlpsks15#"
-url_import = "https://app1.gerencialcredito.com.br/EntrounaConta/Importacao_Digitacao_Proposta_Lista.asp"
+
 driver.maximize_window()
 driver.get(url)
 
